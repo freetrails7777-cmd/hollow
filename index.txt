@@ -1,14 +1,8 @@
 SYSTEM REPORT
 Computer Name : DESKTOP-NFIIQML
-Generated On  : 2026-05-04 18:20:31
+Generated On  : 2026-05-05 17:23:33
 User          : Thinkpad
 OS            : Microsoft Windows 11 Pro
 Version       : [Version]10.0.26200
-Manufacturer  : LENOVO
-Model         : 20MVS0CV00
-Total RAM (GB): 6.91
-CPU           : AMD Ryzen 5 PRO 2500U w/ Radeon Vega Mobile Gfx
 Disk Drives   :
-  C: 952.89 GB total, 824.32 GB free
-IP Addresses  :
-  vEthernet (Default Switch) : 172.22.208.1   Local Area Connection* 2 : 169.254.19.1   Ethernet 2 : 169.254.186.22   Local Area Connection* 1 : 169.254.174.53   WiFi : 192.168.18.67   Ethernet : 169.254.162.38
+  C: 952.89 GB total, 822.1 GB free

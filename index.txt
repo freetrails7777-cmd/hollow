@@ -1,8 +1,20 @@
 SYSTEM REPORT
 Computer Name : DESKTOP-NFIIQML
-Generated On  : 2026-05-05 17:23:33
+Generated On  : 2026-05-05 17:29:04
 User          : Thinkpad
 OS            : Microsoft Windows 11 Pro
 Version       : [Version]10.0.26200
-Disk Drives   :
-  C: 952.89 GB total, 822.1 GB free
+=== Tree for C: (C:\Users\Public) ===
+Folder PATH listing
+Volume serial number is 3476-D161
+C:\USERS\PUBLIC
++---Documents
+|   \---eloo
+|           conf.txt.txt
+|           
++---Downloads
++---Music
++---Pictures
+\---Videos
+
+
